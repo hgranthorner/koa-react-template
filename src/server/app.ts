@@ -1,20 +1,27 @@
 import Koa from 'koa'
 import Router from 'koa-router'
+import send from 'koa-send'
+import serve from 'koa-static'
+import path from 'path'
 
 const app = new Koa()
 const router = new Router()
 
 // Middleware
 
-app.use(async (ctx, next) => {
-  console.log('Url: ', ctx.url)
+app.use(serve('./dist'))
+
+router.get('/', async (ctx, next) => {
+  ctx.body = 'hello message'
   next()
 })
 
-router.get('/', async (ctx) => {
-  ctx.body = 'Hello World!'
+router.get('/test', async (ctx, next) => {
+  ctx.status = 200
+  ctx.body = { message: 'hello' }
 })
 
 app.use(router.routes())
+  .use(router.allowedMethods())
 
 export default app
