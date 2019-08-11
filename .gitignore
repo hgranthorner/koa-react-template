@@ -1,4 +1,4 @@
 /js/**
 .cache
 /dist/*.js
-/dist/*.js.map
+/dist/*.map
