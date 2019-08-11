@@ -125,10 +125,6 @@
         "version": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594",
         "signature": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594"
       },
-      "/users/grant/dev/typescript-koa-react/src/client/app.tsx": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-      },
       "/users/grant/dev/typescript-koa-react/node_modules/@types/react/global.d.ts": {
         "version": "2bbdfc5ed049f38787376bb01b7bcfe5299eac853c76c16a3e21ab0279078314",
         "signature": "2bbdfc5ed049f38787376bb01b7bcfe5299eac853c76c16a3e21ab0279078314"
@@ -145,12 +141,52 @@
         "version": "81d7e951aa7e684a3901429a3141faf0db81348842daf1157d99d1ab98c5a3bb",
         "signature": "81d7e951aa7e684a3901429a3141faf0db81348842daf1157d99d1ab98c5a3bb"
       },
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts": {
+        "version": "dc49082466ff7e61cfbaf146f106a59274dbb95f726ed1e22a54375f82992953",
+        "signature": "dc49082466ff7e61cfbaf146f106a59274dbb95f726ed1e22a54375f82992953"
+      },
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts": {
+        "version": "fe06c9ab9abf0dab56969c939843475ba7a6bd28e3e3abb1270d842c91ffc8e6",
+        "signature": "fe06c9ab9abf0dab56969c939843475ba7a6bd28e3e3abb1270d842c91ffc8e6"
+      },
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts": {
+        "version": "768dec00dc5dcf5507fe189fec9c1dab6b65dd1647f837e5c484c10ad04cb731",
+        "signature": "768dec00dc5dcf5507fe189fec9c1dab6b65dd1647f837e5c484c10ad04cb731"
+      },
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts": {
+        "version": "5eb451d7ec8534087b5d09388630090f600a0a3e15d004ef62de723f9408c3b1",
+        "signature": "5eb451d7ec8534087b5d09388630090f600a0a3e15d004ef62de723f9408c3b1"
+      },
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts": {
+        "version": "2bce9570939b15db87478ed4902e618c7a5a78667a2da088e091e43a59709f14",
+        "signature": "2bce9570939b15db87478ed4902e618c7a5a78667a2da088e091e43a59709f14"
+      },
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts": {
+        "version": "bca166983a1b4bea5aff7ac14949ed25c065d0a006990136b75c3f4690c4e93c",
+        "signature": "bca166983a1b4bea5aff7ac14949ed25c065d0a006990136b75c3f4690c4e93c"
+      },
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts": {
+        "version": "f9c33085ccadc696db518a7f559a6aaa22297de5b0a95a2716b9147f6f7592c8",
+        "signature": "f9c33085ccadc696db518a7f559a6aaa22297de5b0a95a2716b9147f6f7592c8"
+      },
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts": {
+        "version": "210518ab20f243c47f2fb1999bf672901eb6ebd29b328519df5c76c39bae7618",
+        "signature": "210518ab20f243c47f2fb1999bf672901eb6ebd29b328519df5c76c39bae7618"
+      },
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router-dom/index.d.ts": {
+        "version": "8d50040e8a1354075297820c27e3c7f8f9b701b75333daef1ac4112150ccf461",
+        "signature": "8d50040e8a1354075297820c27e3c7f8f9b701b75333daef1ac4112150ccf461"
+      },
+      "/users/grant/dev/typescript-koa-react/src/client/app.tsx": {
+        "version": "97e7466180051567744a2ad8f7444254d797fe75ccec10c821f3ad16a4b1b57e",
+        "signature": "090a10ba1f9c8d6eff3e3a9d2fa385dbc7499ef411632245564ba0da0daf7a31"
+      },
       "/users/grant/dev/typescript-koa-react/node_modules/@types/react-dom/index.d.ts": {
         "version": "5fe76ea99187e695f2e7ee00ddb0c9db41b217397ade188b8a137504728f687f",
         "signature": "5fe76ea99187e695f2e7ee00ddb0c9db41b217397ade188b8a137504728f687f"
       },
       "/users/grant/dev/typescript-koa-react/src/client/index.tsx": {
-        "version": "6a42631fd425b33c646f7a223221e57df753f8dc5edb078ce617fc411143250b",
+        "version": "61826a4d9e55560ee2f358d362ba9ff7fb2b05907e9fbe0d4ec30740eadd31ea",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "/users/grant/dev/typescript-koa-react/node_modules/@types/node/globals.d.ts": {
@@ -393,8 +429,12 @@
         "version": "215712cbf38642a0f2ed1496a0fd5a9ae67c230bad9c50c92d8cce475c31379d",
         "signature": "215712cbf38642a0f2ed1496a0fd5a9ae67c230bad9c50c92d8cce475c31379d"
       },
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/koa-session/index.d.ts": {
+        "version": "2076d5c2b8d6c1e18734a4d27fe6ff44b186b7e6503825542691d994e7d60df6",
+        "signature": "2076d5c2b8d6c1e18734a4d27fe6ff44b186b7e6503825542691d994e7d60df6"
+      },
       "/users/grant/dev/typescript-koa-react/src/server/app.ts": {
-        "version": "6ed85c4ccae64f68f53188350f5d7b49b46c683fcfa50e46ce6da3e765396b47",
+        "version": "1cd0fbb1832a5ff5ad749a7d2e3fb558e34e8405edbfca8279ea94ed773cb132",
         "signature": "fffcdd07eca2c99879cb9c40ced8faac725e9ffe655ea483b7232d6f9439e879"
       },
       "/users/grant/dev/typescript-koa-react/src/server/server.ts": {
@@ -418,7 +458,7 @@
         "signature": "02a185b5e8d74b38264ffb77baa99e83969ba558958df28f971528dcbdd94876"
       },
       "/users/grant/dev/typescript-koa-react/src/test/server.test.ts": {
-        "version": "d7ba8bf22ac8a96cb8360923d701deb887c6fa52178e4e74213f897af6e40dc6",
+        "version": "f380e1c577692477d2ebfa34c9154f363631f23f5fe5caed7fe99336217dbfc1",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "/users/grant/dev/typescript-koa-react/node_modules/@babel/types/lib/index.d.ts": {
@@ -448,34 +488,6 @@
       "/users/grant/dev/typescript-koa-react/node_modules/@types/bluebird/index.d.ts": {
         "version": "3c10804e3bd90aa404eefbc300c362b0ebbd23b34eb03ae592717ac111889f34",
         "signature": "3c10804e3bd90aa404eefbc300c362b0ebbd23b34eb03ae592717ac111889f34"
-      },
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts": {
-        "version": "dc49082466ff7e61cfbaf146f106a59274dbb95f726ed1e22a54375f82992953",
-        "signature": "dc49082466ff7e61cfbaf146f106a59274dbb95f726ed1e22a54375f82992953"
-      },
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts": {
-        "version": "fe06c9ab9abf0dab56969c939843475ba7a6bd28e3e3abb1270d842c91ffc8e6",
-        "signature": "fe06c9ab9abf0dab56969c939843475ba7a6bd28e3e3abb1270d842c91ffc8e6"
-      },
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts": {
-        "version": "768dec00dc5dcf5507fe189fec9c1dab6b65dd1647f837e5c484c10ad04cb731",
-        "signature": "768dec00dc5dcf5507fe189fec9c1dab6b65dd1647f837e5c484c10ad04cb731"
-      },
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts": {
-        "version": "5eb451d7ec8534087b5d09388630090f600a0a3e15d004ef62de723f9408c3b1",
-        "signature": "5eb451d7ec8534087b5d09388630090f600a0a3e15d004ef62de723f9408c3b1"
-      },
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts": {
-        "version": "2bce9570939b15db87478ed4902e618c7a5a78667a2da088e091e43a59709f14",
-        "signature": "2bce9570939b15db87478ed4902e618c7a5a78667a2da088e091e43a59709f14"
-      },
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts": {
-        "version": "bca166983a1b4bea5aff7ac14949ed25c065d0a006990136b75c3f4690c4e93c",
-        "signature": "bca166983a1b4bea5aff7ac14949ed25c065d0a006990136b75c3f4690c4e93c"
-      },
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts": {
-        "version": "f9c33085ccadc696db518a7f559a6aaa22297de5b0a95a2716b9147f6f7592c8",
-        "signature": "f9c33085ccadc696db518a7f559a6aaa22297de5b0a95a2716b9147f6f7592c8"
       },
       "/users/grant/dev/typescript-koa-react/node_modules/@types/istanbul-lib-coverage/index.d.ts": {
         "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
@@ -508,14 +520,6 @@
       "/users/grant/dev/typescript-koa-react/node_modules/@types/q/index.d.ts": {
         "version": "57427a9a368f8f0ee4ce03c36a762e19166756b95ab688948b29be553b24a78a",
         "signature": "57427a9a368f8f0ee4ce03c36a762e19166756b95ab688948b29be553b24a78a"
-      },
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts": {
-        "version": "210518ab20f243c47f2fb1999bf672901eb6ebd29b328519df5c76c39bae7618",
-        "signature": "210518ab20f243c47f2fb1999bf672901eb6ebd29b328519df5c76c39bae7618"
-      },
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router-dom/index.d.ts": {
-        "version": "8d50040e8a1354075297820c27e3c7f8f9b701b75333daef1ac4112150ccf461",
-        "signature": "8d50040e8a1354075297820c27e3c7f8f9b701b75333daef1ac4112150ccf461"
       },
       "/users/grant/dev/typescript-koa-react/node_modules/@types/stack-utils/index.d.ts": {
         "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
@@ -683,10 +687,6 @@
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/grant/dev/typescript-koa-react/src/client/app.tsx": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/grant/dev/typescript-koa-react/node_modules/@types/react/global.d.ts": [
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
@@ -706,6 +706,66 @@
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router-dom/index.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/src/client/app.tsx": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router-dom/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/grant/dev/typescript-koa-react/node_modules/@types/react-dom/index.d.ts": [
         "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
@@ -714,6 +774,7 @@
       "/users/grant/dev/typescript-koa-react/src/client/index.tsx": [
         "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/react-dom/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/src/client/app.tsx",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1085,12 +1146,17 @@
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/koa-session/index.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/koa/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/cookies/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/grant/dev/typescript-koa-react/src/server/app.ts": [
         "/users/grant/dev/typescript-koa-react/node_modules/@types/koa/index.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/koa-router/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/koa-send/index.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/koa-static/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/path.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/koa-session/index.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1165,47 +1231,6 @@
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/grant/dev/typescript-koa-react/node_modules/@types/istanbul-lib-coverage/index.d.ts": [
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
@@ -1241,19 +1266,6 @@
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/grant/dev/typescript-koa-react/node_modules/@types/q/index.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router-dom/index.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1414,6 +1426,60 @@
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router-dom/index.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/grant/dev/typescript-koa-react/node_modules/@types/react-dom/index.d.ts": [
         "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
@@ -1787,6 +1853,12 @@
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/koa-session/index.d.ts": [
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/koa/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/cookies/index.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
+        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/grant/dev/typescript-koa-react/src/server/app.ts": [
         "/users/grant/dev/typescript-koa-react/node_modules/@types/koa/index.d.ts"
       ],
@@ -1846,47 +1918,6 @@
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/grant/dev/typescript-koa-react/node_modules/@types/istanbul-lib-coverage/index.d.ts": [
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
@@ -1922,19 +1953,6 @@
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/grant/dev/typescript-koa-react/node_modules/@types/q/index.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router-dom/index.d.ts": [
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
-        "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/util.d.ts",
         "/users/grant/dev/typescript-koa-react/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1983,11 +2001,20 @@
       "/users/grant/dev/typescript-koa-react/node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/typescript/lib/lib.es2017.full.d.ts",
-      "/users/grant/dev/typescript-koa-react/src/client/app.tsx",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/react/global.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/csstype/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/prop-types/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/react/index.d.ts",
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts",
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts",
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts",
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts",
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts",
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts",
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router-dom/index.d.ts",
+      "/users/grant/dev/typescript-koa-react/src/client/app.tsx",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/react-dom/index.d.ts",
       "/users/grant/dev/typescript-koa-react/src/client/index.tsx",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/node/globals.d.ts",
@@ -2050,7 +2077,7 @@
       "/users/grant/dev/typescript-koa-react/node_modules/@types/koa-router/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/koa-send/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/koa-static/index.d.ts",
-      "/users/grant/dev/typescript-koa-react/src/server/app.ts",
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/koa-session/index.d.ts",
       "/users/grant/dev/typescript-koa-react/src/server/server.ts",
       "/users/grant/dev/typescript-koa-react/src/server/db/db.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/cookiejar/index.d.ts",
@@ -2064,13 +2091,6 @@
       "/users/grant/dev/typescript-koa-react/node_modules/@types/babel__template/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/babel__core/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/bluebird/index.d.ts",
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/domutils.d.ts",
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createbrowserhistory.d.ts",
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/createhashhistory.d.ts",
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/creatememoryhistory.d.ts",
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/locationutils.d.ts",
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/pathutils.d.ts",
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/history/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/istanbul-lib-coverage/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/istanbul-lib-report/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/istanbul-reports/index.d.ts",
@@ -2079,11 +2099,10 @@
       "/users/grant/dev/typescript-koa-react/node_modules/jest-diff/build/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/jest/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/q/index.d.ts",
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router/index.d.ts",
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/react-router-dom/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/stack-utils/index.d.ts",
       "/users/grant/dev/typescript-koa-react/node_modules/@types/validator/index.d.ts",
-      "/users/grant/dev/typescript-koa-react/node_modules/@types/yargs/index.d.ts"
+      "/users/grant/dev/typescript-koa-react/node_modules/@types/yargs/index.d.ts",
+      "/users/grant/dev/typescript-koa-react/src/server/app.ts"
     ]
   },
   "version": "3.5.3"

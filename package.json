@@ -6,12 +6,14 @@
   "license": "MIT",
   "scripts": {
     "build-server": "yarn tsc --watch",
-    "run-server": "yarn build-server & nodemon js/src/server/server.js"
+    "run-server": "yarn build-server & nodemon js/src/server/server.js",
+    "parcel-build": "yarn parcel watch src/client/index.tsx --public-url ./dist/"
   },
   "dependencies": {
     "axios": "^0.19.0",
     "koa": "^2.7.0",
     "koa-router": "^7.4.0",
+    "koa-session": "^5.12.2",
     "koa-static": "^5.0.0",
     "pg": "^7.12.1",
     "react": "^16.9.0",
@@ -19,13 +21,15 @@
     "react-router-dom": "^5.0.1",
     "reflect-metadata": "^0.1.13",
     "sequelize": "^5.1.0",
-    "sequelize-typescript": "^1.0.0-beta.3"
+    "sequelize-typescript": "^1.0.0-beta.3",
+    "tailwindcss": "^1.1.1"
   },
   "devDependencies": {
     "@types/bluebird": "^3.5.27",
     "@types/jest": "^24.0.17",
     "@types/koa": "^2.0.49",
     "@types/koa-router": "^7.0.42",
+    "@types/koa-session": "^5.10.1",
     "@types/koa-static": "^4.0.1",
     "@types/node": "^12.7.1",
     "@types/react": "^16.9.1",

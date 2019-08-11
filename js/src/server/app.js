@@ -6,12 +6,15 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const koa_1 = __importDefault(require("koa"));
 const koa_router_1 = __importDefault(require("koa-router"));
 const koa_static_1 = __importDefault(require("koa-static"));
+const koa_session_1 = __importDefault(require("koa-session"));
 const app = new koa_1.default();
 const router = new koa_router_1.default();
 // Middleware
+app.keys = ['secrets'];
 app.use(koa_static_1.default('./dist'));
+app.use(koa_session_1.default(app));
 router.get('/', async (ctx, next) => {
-    ctx.body = 'hello message';
+    ctx.body.message = 'hello';
     next();
 });
 router.get('/test', async (ctx, next) => {

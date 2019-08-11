@@ -16,12 +16,10 @@ describe('Server', () => {
         expect(response.status).toBe(200);
         expect(response.body.message).toBe('hello');
     });
-    /*
-  it('does not accept invalid responses', () => {
-    return app.get('/not/a/real/path')
-      .expect(404)
-      .catch(e => console.log(e))
-  })
-     */
+    it('does not accept invalid responses', () => {
+        return app.get('/not/a/real/path')
+            .expect(404)
+            .catch(e => console.log(e));
+    });
 });
 //# sourceMappingURL=server.test.js.map

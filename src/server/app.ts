@@ -1,18 +1,19 @@
 import Koa from 'koa'
 import Router from 'koa-router'
-import send from 'koa-send'
 import serve from 'koa-static'
-import path from 'path'
+import session from 'koa-session'
 
 const app = new Koa()
 const router = new Router()
 
 // Middleware
 
+app.keys = ['secrets']
 app.use(serve('./dist'))
+app.use(session(app))
 
 router.get('/', async (ctx, next) => {
-  ctx.body = 'hello message'
+  ctx.body.message = 'hello'
   next()
 })
 
