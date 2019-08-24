@@ -8,7 +8,8 @@
     "build-server": "yarn tsc --watch",
     "run-server": "yarn build-server & nodemon js/src/server/server.js",
     "parcel-build": "yarn parcel watch src/client/index.tsx --public-url ./dist/",
-    "build-styles": "tailwind build ./dist/style.css -o ./dist/output.css"
+    "build-styles": "tailwind build ./dist/style.css -o ./dist/output.css",
+    "test": "jest --watchAll"
   },
   "dependencies": {
     "axios": "^0.19.0",
